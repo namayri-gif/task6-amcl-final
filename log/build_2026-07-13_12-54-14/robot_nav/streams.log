@@ -1,0 +1,46 @@
+[0.277s] Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/robot_nav -- -j4 -l4
+[0.414s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.015s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.393s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.393s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.409s] -- Added test 'lint_cmake' to check CMake code style
+[1.423s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.448s] -- Added test 'xmllint' to check XML markup files
+[1.529s] -- Configuring done (1.2s)
+[2.044s] -- Generating done (0.4s)
+[2.356s] -- Build files have been written to: /root/workspaces/ros2_ws/build/robot_nav
+[2.406s] Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/robot_nav -- -j4 -l4
+[2.421s] Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/robot_nav
+[2.462s] -- Install configuration: ""
+[2.478s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/launch
+[2.497s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/launch/amcl.launch.py
+[2.517s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/launch/nav2_bringup.launch.py
+[2.536s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config
+[2.545s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/global_costmap.yaml
+[2.546s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/local_costmap.yaml
+[2.561s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/amcl.yaml
+[2.561s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/bt_navigator.yaml
+[2.561s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/controller_server.yaml
+[2.561s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/behavior_server.yaml
+[2.567s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/planner_server.yaml
+[2.587s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/map
+[2.587s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/map/turtlebot3_world_map.pgm
+[2.607s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/map/turtlebot3_world_map.yaml
+[2.626s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/rviz
+[2.645s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/rviz/nav2.rviz
+[2.664s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/ament_index/resource_index/package_run_dependencies/robot_nav
+[2.685s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/ament_index/resource_index/parent_prefix_path/robot_nav
+[2.705s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/ament_prefix_path.sh
+[2.709s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/ament_prefix_path.dsv
+[2.724s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/path.sh
+[2.745s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/path.dsv
+[2.764s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.bash
+[2.769s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.sh
+[2.769s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.zsh
+[2.769s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.dsv
+[2.769s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/package.dsv
+[2.793s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/ament_index/resource_index/packages/robot_nav
+[2.800s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/cmake/robot_navConfig.cmake
+[2.819s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/cmake/robot_navConfig-version.cmake
+[2.838s] -- Up-to-date: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/package.xml
+[2.851s] Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/robot_nav

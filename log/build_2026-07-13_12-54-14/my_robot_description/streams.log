@@ -1,0 +1,37 @@
+[0.273s] Invoking command in '/root/workspaces/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/my_robot_description -- -j4 -l4
+[0.385s] Invoked command in '/root/workspaces/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/my_robot_description -- -j4 -l4
+[0.386s] Invoking command in '/root/workspaces/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/my_robot_description
+[0.440s] -- Install configuration: ""
+[0.455s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/urdf
+[0.476s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/urdf/robot.urdf.xacro
+[0.487s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/urdf/robot.gazebo.xacro
+[0.487s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/launch
+[0.487s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/launch/gazebo.launch.py
+[0.487s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/launch/display.launch.py
+[0.491s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/meshes
+[0.520s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/meshes/zed.stl
+[0.540s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/meshes/lidar.STL
+[0.549s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/meshes/.gitkeep
+[0.549s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/rviz
+[0.550s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/rviz/nav2.rviz
+[0.555s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/rviz/rviz.rviz
+[0.570s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/rviz/amcl.rviz
+[0.589s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/rviz/.gitkeep
+[0.608s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/config
+[0.628s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/config/gz_bridge.yaml
+[0.647s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.667s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.686s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.697s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.697s] -- Installing: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[0.700s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.707s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.710s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.732s] -- Up-to-date: /root/workspaces/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[0.756s] Invoked command in '/root/workspaces/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/my_robot_description

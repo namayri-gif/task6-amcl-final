@@ -1,0 +1,6 @@
+Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/ros2_ws/src/task6-amcl-final/robot_nav -DCMAKE_INSTALL_PREFIX=/root/workspaces/ros2_ws/install/robot_nav
+Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/ros2_ws/src/task6-amcl-final/robot_nav -DCMAKE_INSTALL_PREFIX=/root/workspaces/ros2_ws/install/robot_nav
+Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/robot_nav -- -j4 -l4
+Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/robot_nav -- -j4 -l4
+Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/robot_nav
+Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/robot_nav

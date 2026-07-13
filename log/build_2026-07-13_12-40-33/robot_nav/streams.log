@@ -1,0 +1,59 @@
+[0.301s] Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/ros2_ws/src/task6-amcl-final/robot_nav -DCMAKE_INSTALL_PREFIX=/root/workspaces/ros2_ws/install/robot_nav
+[0.591s] -- The C compiler identification is GNU 13.3.0
+[0.818s] -- The CXX compiler identification is GNU 13.3.0
+[0.905s] -- Detecting C compiler ABI info
+[1.900s] -- Detecting C compiler ABI info - done
+[1.916s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.919s] -- Detecting C compile features
+[1.919s] -- Detecting C compile features - done
+[1.994s] -- Detecting CXX compiler ABI info
+[2.948s] -- Detecting CXX compiler ABI info - done
+[2.965s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.972s] -- Detecting CXX compile features
+[2.972s] -- Detecting CXX compile features - done
+[3.083s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.480s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[4.586s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[5.453s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.469s] -- Configured 'flake8' exclude dirs and/or files: 
+[5.488s] -- Added test 'lint_cmake' to check CMake code style
+[5.523s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.567s] -- Added test 'xmllint' to check XML markup files
+[5.791s] -- Configuring done (5.5s)
+[6.497s] -- Generating done (0.6s)
+[6.798s] -- Build files have been written to: /root/workspaces/ros2_ws/build/robot_nav
+[6.808s] Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/ros2_ws/src/task6-amcl-final/robot_nav -DCMAKE_INSTALL_PREFIX=/root/workspaces/ros2_ws/install/robot_nav
+[6.819s] Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/robot_nav -- -j4 -l4
+[6.922s] Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/robot_nav -- -j4 -l4
+[6.955s] Invoking command in '/root/workspaces/ros2_ws/build/robot_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/robot_nav
+[6.968s] -- Install configuration: ""
+[6.970s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/launch
+[7.035s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/launch/amcl.launch.py
+[7.066s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/launch/nav2_bringup.launch.py
+[7.108s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config
+[7.136s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/global_costmap.yaml
+[7.185s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/local_costmap.yaml
+[7.257s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/amcl.yaml
+[7.285s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/bt_navigator.yaml
+[7.345s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/controller_server.yaml
+[7.380s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/behavior_server.yaml
+[7.442s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/config/planner_server.yaml
+[7.474s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/map
+[7.514s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/map/turtlebot3_world_map.pgm
+[7.548s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/map/turtlebot3_world_map.yaml
+[7.631s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/ament_index/resource_index/package_run_dependencies/robot_nav
+[7.723s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/ament_index/resource_index/parent_prefix_path/robot_nav
+[7.762s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/ament_prefix_path.sh
+[7.808s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/ament_prefix_path.dsv
+[7.868s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/path.sh
+[7.917s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/environment/path.dsv
+[7.966s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.bash
+[8.022s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.sh
+[8.075s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.zsh
+[8.146s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/local_setup.dsv
+[8.218s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/package.dsv
+[8.292s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/ament_index/resource_index/packages/robot_nav
+[8.366s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/cmake/robot_navConfig.cmake
+[8.439s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/cmake/robot_navConfig-version.cmake
+[8.516s] -- Installing: /root/workspaces/ros2_ws/install/robot_nav/share/robot_nav/package.xml
+[8.582s] Invoked command in '/root/workspaces/ros2_ws/build/robot_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/robot_nav

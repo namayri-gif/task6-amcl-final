@@ -1,0 +1,57 @@
+[0.343s] Invoking command in '/root/workspaces/ros2_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/ros2_ws/src/task6-amcl-final/slam_toolbox_demo -DCMAKE_INSTALL_PREFIX=/root/workspaces/ros2_ws/install/slam_toolbox_demo
+[0.617s] -- The C compiler identification is GNU 13.3.0
+[0.859s] -- The CXX compiler identification is GNU 13.3.0
+[0.948s] -- Detecting C compiler ABI info
+[1.957s] -- Detecting C compiler ABI info - done
+[1.980s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.985s] -- Detecting C compile features
+[1.985s] -- Detecting C compile features - done
+[2.059s] -- Detecting CXX compiler ABI info
+[3.052s] -- Detecting CXX compiler ABI info - done
+[3.075s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.080s] -- Detecting CXX compile features
+[3.080s] -- Detecting CXX compile features - done
+[3.190s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.461s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[4.544s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[5.430s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.431s] -- Configured 'flake8' exclude dirs and/or files: 
+[5.441s] -- Added test 'lint_cmake' to check CMake code style
+[5.466s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.529s] -- Added test 'xmllint' to check XML markup files
+[5.746s] -- Configuring done (5.4s)
+[6.458s] -- Generating done (0.6s)
+[6.780s] -- Build files have been written to: /root/workspaces/ros2_ws/build/slam_toolbox_demo
+[6.831s] Invoked command in '/root/workspaces/ros2_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/ros2_ws/src/task6-amcl-final/slam_toolbox_demo -DCMAKE_INSTALL_PREFIX=/root/workspaces/ros2_ws/install/slam_toolbox_demo
+[6.846s] Invoking command in '/root/workspaces/ros2_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/slam_toolbox_demo -- -j4 -l4
+[6.949s] Invoked command in '/root/workspaces/ros2_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/ros2_ws/build/slam_toolbox_demo -- -j4 -l4
+[6.960s] Invoking command in '/root/workspaces/ros2_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/slam_toolbox_demo
+[7.018s] -- Install configuration: ""
+[7.018s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/launch
+[7.054s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/launch/slam_toolbox_online_async.launch.py
+[7.107s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/launch/localization.launch.py
+[7.156s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/config
+[7.184s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/config/slam_toolbox_localization.yaml
+[7.232s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/config/slam_toolbox_online_async.yaml
+[7.284s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/map
+[7.321s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/map/turtlebot3_world_map.pgm
+[7.355s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/map/turtlebot3_world_map.yaml
+[7.403s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/posegraph
+[7.423s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/posegraph/turtlebot3_world.posegraph
+[7.556s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/posegraph/turtlebot3_world.data
+[7.684s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/ament_index/resource_index/package_run_dependencies/slam_toolbox_demo
+[7.743s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/ament_index/resource_index/parent_prefix_path/slam_toolbox_demo
+[7.790s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/ament_prefix_path.sh
+[7.839s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/ament_prefix_path.dsv
+[7.894s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/path.sh
+[7.943s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/path.dsv
+[8.001s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.bash
+[8.048s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.sh
+[8.123s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.zsh
+[8.196s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.dsv
+[8.268s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/package.dsv
+[8.342s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/ament_index/resource_index/packages/slam_toolbox_demo
+[8.415s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/cmake/slam_toolbox_demoConfig.cmake
+[8.496s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/cmake/slam_toolbox_demoConfig-version.cmake
+[8.534s] -- Installing: /root/workspaces/ros2_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/package.xml
+[8.912s] Invoked command in '/root/workspaces/ros2_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/ros2_ws/build/slam_toolbox_demo
